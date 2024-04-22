@@ -6,4 +6,3 @@ gtts
 pygame
 googletrans==4.0.0-rc1
 streamlit
-libgl1-mesa-glx
